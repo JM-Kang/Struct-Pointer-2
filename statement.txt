@@ -1,0 +1,109 @@
+s New York	23	14	1	
+Warehouse stock updated: 
+New York	23	14	1	
+
+s Miami	25	25	25	
+Warehouse stock updated: 
+Miami	25	25	25	
+
+s Los Angeles	40	13	17	
+Warehouse stock updated: 
+Los Angeles	40	13	17	
+
+s Houston	100	30	10	
+Warehouse stock updated: 
+Houston	100	30	10	
+
+s Chicago	42	23	19	
+Warehouse stock updated: 
+Chicago	42	23	19	
+
+s New York	0	0	15	
+Warehouse stock updated: 
+New York	23	14	16	
+
+s Miami	13	17	21	
+Warehouse stock updated: 
+Miami	38	42	46	
+
+o Los Angeles	15	10	15	
+Warehouse stock updated: 
+Los Angeles	25	3	2	
+Price of Order: $227.50
+
+o New York	12	24	8	
+24 of item 2 shipped from Miami to New York
+Warehouse stock updated: 
+Miami	38	18	46	
+Warehouse stock updated: 
+New York	11	14	8	
+Price of Order: $276.80
+
+o Houston	75	45	10	
+Item 2 order unfilled.
+Warehouse stock updated: 
+Houston	25	30	0	
+Price of Order: $235.00
+
+o Chicago	20	15	15	
+Warehouse stock updated: 
+Chicago	22	8	4	
+Price of Order: $272.50
+
+o New York	15	0	0	
+15 of item 1 shipped from Miami to New York
+Warehouse stock updated: 
+Miami	23	18	46	
+Warehouse stock updated: 
+New York	11	14	8	
+Price of Order: $33.00
+
+s Los Angeles	10	20	10	
+Warehouse stock updated: 
+Los Angeles	35	23	12	
+
+s Houston	0	30	40	
+Warehouse stock updated: 
+Houston	25	60	40	
+
+o New York	15	15	25	
+15 of item 1 shipped from Los Angeles to New York
+Warehouse stock updated: 
+Los Angeles	20	23	12	
+15 of item 2 shipped from Houston to New York
+Warehouse stock updated: 
+Houston	25	45	40	
+25 of item 3 shipped from Miami to New York
+Warehouse stock updated: 
+Miami	23	18	21	
+Warehouse stock updated: 
+New York	11	14	8	
+Price of Order: $382.25
+
+o Chicago	75	30	40	
+Item 1 order unfilled.
+30 of item 2 shipped from Houston to Chicago
+Warehouse stock updated: 
+Houston	25	15	40	
+40 of item 3 shipped from Houston to Chicago
+Warehouse stock updated: 
+Houston	25	15	0	
+Warehouse stock updated: 
+Chicago	22	8	4	
+Price of Order: $605.00
+
+s New York	20	15	20	
+Warehouse stock updated: 
+New York	31	29	28	
+
+o Houston	10	20	10	
+20 of item 2 shipped from New York to Houston
+Warehouse stock updated: 
+New York	31	9	28	
+10 of item 3 shipped from New York to Houston
+Warehouse stock updated: 
+New York	31	9	18	
+Warehouse stock updated: 
+Houston	15	15	0	
+Price of Order: $267.50
+
